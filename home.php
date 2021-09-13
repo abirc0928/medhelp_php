@@ -6,7 +6,7 @@
 ?>
 <html>
 <head>
-    <title>Home new</title>
+    <title>Home</title>
     <link rel="stylesheet" href="home.css">
 </head>
 <body>
